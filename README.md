@@ -1,21 +1,16 @@
 <p align="center">
   <img src="Header.gif" alt="NEO Spider Banner"/>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SPIDER+ROBOT+-+NEO+CULTURE+TECH" alt="Typing SVG" /></a>
-<h1 align="center">🕷️ NEO Spider</h1>
-<h3 align="center">A Quadruped Walking Robot Powered by Arduino</h3>
 
-<p align="center">
+<h1 style="text-align: center;">🕷️ NEO Spider</h1>
+<h2 style="text-align: center;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C7EF7&background=97EBFF00&width=435&lines=Born+to+Crawl%2C+Built+to+Wow" alt="Typing SVG" /></a></h2>
+
+<p style="text-align: center;">
   <img src="https://img.shields.io/badge/Platform-Arduino-blue?style=for-the-badge&logo=arduino" />
   <img src="https://img.shields.io/badge/Motion-Creep_Gait-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Control-Bluetooth-critical?style=for-the-badge&logo=bluetooth" />
   <img src="https://img.shields.io/badge/Servos-8x_SG90-orange?style=for-the-badge" />
 </p>
-# 🕷️ NEO Spider Quadruped Robot
-
-> Arduino-powered walking robot with modular expandability and wireless control.
-
-![NEO Spider Demo](images/spider-walk.gif) <!-- Replace with actual path to your animation -->
 
 ## 📌 Overview
 
